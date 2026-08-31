@@ -1,0 +1,10 @@
+# Core Data Analysis
+pandas==2.3.3
+numpy
+
+# Data Visualization
+matplotlib
+seaborn
+
+# Jupyter Notebook
+jupyter
